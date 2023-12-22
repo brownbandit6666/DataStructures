@@ -1,2 +1,6 @@
+<<<<<<< HEAD:.gitignore
 *.class
 
+=======
+git rm --cached "*.class"
+>>>>>>> 49b05b4d44eefcde522796f6a1a491a6b5703010:pa2-ArrayList-starter-main/starter/.gitignore
